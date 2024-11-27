@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/">
+    <file>resource_img/icon.png</file>
+    <file>resource_img/logo.png</file>
+    <file>resource_img/rec_icon/camera.png</file>
+    <file>resource_img/rec_icon/camera_hv.png</file>
+    <file>resource_img/rec_icon/detection.png</file>
+    <file>resource_img/rec_icon/detection_hv.png</file>
+    <file>resource_img/rec_icon/help.png</file>
+    <file>resource_img/rec_icon/help_hv.png</file>
+    <file>resource_img/rec_icon/set.png</file>
+    <file>resource_img/rec_icon/set_hv.png</file>
+    <file>resource_img/rec_icon/tag.png</file>
+    <file>resource_img/rec_icon/tag_hv.png</file>
+  </qresource>
+</RCC>
