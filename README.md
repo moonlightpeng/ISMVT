@@ -6,7 +6,7 @@ we developed a visual inspection system based on deep learning. More precisely, 
 
 1.2 Depending on different inspection products, the thresholds in image processing need to be set according to actual situations.
 
-1.3 The environment for deep learning is configured the same as that for DeepLSD （https://github.com/cvg/DeepLSD）.
+1.3 The environment for deep learning is configured the same as that for DeepLSD: https://github.com/cvg/DeepLSD.
 
 # 2 Install third party libraries
 
